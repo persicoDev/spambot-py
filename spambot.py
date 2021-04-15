@@ -1,4 +1,5 @@
-# little spam bot in python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import time
 import pyautogui
 choice = 0
